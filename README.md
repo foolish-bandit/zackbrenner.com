@@ -21,7 +21,7 @@ The site serves as a central hub for my work across law, technology, and busines
 
 ## About
 
-I'm a JD/MBA candidate and CEO of Sonomos focused on how emerging technologies, particularly AI, are reshaping regulatory systems.
+I'm a JD/MBA candidate, and CEO of Sonomos, focused on how emerging technologies, particularly AI, are reshaping regulatory systems.
 
 My work centers on:
 - Artificial Intelligence
