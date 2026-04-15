@@ -2,7 +2,6 @@ import React from "react";
 import { Typography, Container } from "@material-ui/core";
 import { makeStyles } from "@material-ui/core/styles";
 import { TextDecrypt } from "./TextDecrypt";
-import { useLanguage } from "../../context/LanguageContext";
 import translations from "../../settings/translations";
 
 const useStyles = makeStyles((theme) => ({
@@ -117,8 +116,7 @@ const useStyles = makeStyles((theme) => ({
 
 export const Experience = () => {
     const classes = useStyles();
-    const { language } = useLanguage();
-    const t = translations[language];
+    const t = translations;
     const experiences = t.experience.items || [];
 
     if (experiences.length === 0) {

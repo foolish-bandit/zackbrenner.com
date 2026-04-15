@@ -4,7 +4,6 @@ import { makeStyles } from "@material-ui/core/styles";
 import { TextDecrypt } from "./TextDecrypt";
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import ExpandLessIcon from '@material-ui/icons/ExpandLess';
-import { useLanguage } from "../../context/LanguageContext";
 import translations from "../../settings/translations";
 
 const useStyles = makeStyles((theme) => ({
@@ -231,8 +230,7 @@ const ProjectCard = ({ project, classes, t }) => {
 
 export const Projects = () => {
     const classes = useStyles();
-    const { language } = useLanguage();
-    const t = translations[language];
+    const t = translations;
     const projects = t.projects.items || [];
 
     return (

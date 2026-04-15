@@ -4,7 +4,6 @@ import { makeStyles } from "@material-ui/core/styles";
 import { TextDecrypt } from "./TextDecrypt";
 import Resume from "../../settings/resume.json";
 import GetAppIcon from '@material-ui/icons/GetApp';
-import { useLanguage } from "../../context/LanguageContext";
 import translations from "../../settings/translations";
 
 const useStyles = makeStyles((theme) => ({
@@ -114,9 +113,8 @@ const useStyles = makeStyles((theme) => ({
 export const About = () => {
     const classes = useStyles();
     const about = Resume.about || {};
-    const { language } = useLanguage();
-    const t = translations[language];
-    const cvHref = language === 'zh' ? `${process.env.PUBLIC_URL}/resume-cn.pdf` : (about.cvLink || "/resume");
+    const t = translations;
+    const cvHref = about.cvLink || "/resume";
 
     return (
         <section className={classes.section} id="about">

@@ -2,7 +2,6 @@ import React from "react";
 import { Typography, Container, Grid, LinearProgress, Box } from "@material-ui/core";
 import { makeStyles } from "@material-ui/core/styles";
 import { TextDecrypt } from "./TextDecrypt";
-import { useLanguage } from "../../context/LanguageContext";
 import translations from "../../settings/translations";
 
 const useStyles = makeStyles((theme) => ({
@@ -121,8 +120,7 @@ const useStyles = makeStyles((theme) => ({
 
 export const Skills = () => {
     const classes = useStyles();
-    const { language } = useLanguage();
-    const t = translations[language];
+    const t = translations;
     const skillCategories = t.skills.categories || [];
 
     // Collect all skill names for bottom tags
