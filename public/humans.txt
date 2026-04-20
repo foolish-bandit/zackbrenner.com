@@ -1,0 +1,10 @@
+/* TEAM */
+Name: Zachary Brenner
+Role: Founder, Technologist
+Site: https://zackbrenner.com
+Contact: zgbrenner [at] gmail.com
+
+/* SITE */
+Standards: HTML5, CSS3, JavaScript
+Components: React, Material UI
+Software: Cloudflare Pages
