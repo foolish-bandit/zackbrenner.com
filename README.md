@@ -1,105 +1,49 @@
 <p align="center">
-  <img src="public/personalsite-readme.png" style="max-width:100%; height:auto;" />
+  <img src="public/personalsite-readme.png" alt="Hey, I'm Zachary" width="560" />
 </p>
 
-# Zachary (Zack) Brenner
-
-**Founder, Technologist, Human**  
-*Exploring the intersection of AI, regulation, and emerging systems*
-
----
-
-## Overview
-
-This repository contains the source code for my personal website.
-
-The site serves as a central hub for my work across law, technology, and business—featuring writing, projects, and ongoing work at the edge of artificial intelligence, blockchain, privacy, and regulatory systems.
+<p align="center">
+  <a href="https://zackbrenner.com"><img src="https://img.shields.io/badge/zackbrenner.com-visit-000?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.jdsupra.com/authors/zachary-brenner/artificial-intelligence/"><img src="https://img.shields.io/badge/JD_Supra-publications-1a365d?style=flat-square" alt="Publications" /></a>
+  <a href="https://linkedin.com/in/zachary-brenner"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://sonomos.ai"><img src="https://img.shields.io/badge/Sonomos-CEO-000?style=flat-square" alt="Sonomos" /></a>
+</p>
 
 ---
 
-## Live Site
+JD/MBA candidate and CEO of [Sonomos](https://sonomos.ai), building local-first privacy infrastructure for AI. I write and build at the intersection of artificial intelligence, regulatory systems, and emerging technology.
 
-[![Visit Website](https://img.shields.io/badge/Visit-Website-black?style=for-the-badge)](https://zackbrenner.com)
+## What I'm Building
 
----
+| Project | What it is |
+|---------|-----------|
+| [**Sonomos**](https://sonomos.ai) | On-device AI privacy engine. Detects and masks PII before it reaches any model. Desktop, browser, MCP. |
+| [**Canary**](https://github.com/sonomos-ai/Canary) | Claude Code plugin that counts every piece of PII you expose. 16 regex detectors + 70 semantic categories. |
+| [**Origynl**](https://github.com/foolish-bandit/Origynl) | Blockchain-anchored file authentication. SHA-256 hash + Polygon proof. Prove you made it first. |
+| [**The Well**](https://github.com/foolish-bandit/The-Well) | Open-source database of how judges actually run their courtrooms. Attorney-sourced, privacy-first. |
+| [**Circuitus**](https://github.com/foolish-bandit/Circuitus) | Legal research suite with document reader, annotations, and practice library. Runs entirely in the browser. |
 
-## About
+## What I Write About
 
-I'm a JD/MBA candidate, and CEO of Sonomos, focused on how emerging technologies, particularly AI, are reshaping regulatory systems.
+Published in **Compliance Law Journal**, **UC Davis Business Law Journal**, **Westlaw Today**, **Law360**, and **JD Supra**.
 
-My work centers on:
-- Artificial Intelligence
-- Blockchain & Crypto Regulation
-- Privacy & Compliance Infrastructure
-- Market & Regulatory Design
+- Agentic AI and market behavior
+- Crypto regulation and interoperability
+- AI compliance systems
+- Legal frameworks for emerging technologies
 
-This site reflects that work—both in writing and in systems I’m building.
+[Read my latest on JD Supra](https://www.jdsupra.com/authors/zachary-brenner/artificial-intelligence/)
 
----
+## This Repo
 
-## Sections
-
-The website is structured to highlight a few core areas:
-
-- **About** — Background, focus areas, and perspective  
-- **Experience** — Professional and academic work  
-- **Projects** — Systems and products I’ve built or am building  
-- **Writing** — Published legal and technical analysis  
-- **Contact** — Ways to connect  
-
----
-
-### Writing & Publications
-My work has been featured in several publications, including:
-- Compliance Law Journal
-- UC Davis Business Law Journal
-- Westlaw Today
-- Law360
-- [JD Supra Perspectives (my author page with latest insights](https://www.jdsupra.com/authors/zachary-brenner/artificial-intelligence/)
-
-Selected topics:
-- Agentic AI & market behavior  
-- Crypto regulation & interoperability  
-- AI compliance systems  
-- Legal frameworks for emerging technologies  
-
----
-
-## Projects
-
-- [Origynl](https://github.com/foolish-bandit/Origynl)
-- [Glyph](https://github.com/foolish-bandit/Glyph)
-- [Circuitus](https://github.com/foolish-bandit/Circuitus)
-- [Firewater](https://github.com/foolish-bandit/Firewater)
-- **DanceCard (Coming Soon)** — A simplified event discovery platform designed to help seniors connect socially without friction
-
----
-
-## Tech Stack
-
-This site is built using a modern frontend stack.
-
-Typical components may include:
-- React / Vite
-- Tailwind CSS
-- TypeScript
-- Cloudflare Pages (deployment)
-
----
-
-## Development
-
-To run locally (not sure why anyone would but just in case:
+Source code for [zackbrenner.com](https://zackbrenner.com). React + Tailwind CSS + Cloudflare Pages.
 
 ```bash
 npm install
 npm run dev
-## License
+```
 
----
+## License
 
 MIT
 
----
-
-Built by [Zack Brenner](https://github.com/foolish-bandit)
