@@ -36,7 +36,7 @@ Published in **Compliance Law Journal**, **UC Davis Business Law Journal**, **We
 
 ## This Repo
 
-Source code for [zackbrenner.com](https://zackbrenner.com). React + Tailwind CSS + Cloudflare Pages.
+Source code for [zackbrenner.com](https://zackbrenner.com). React + GitHub Pages.
 
 ```bash
 npm install

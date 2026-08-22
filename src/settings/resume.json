@@ -16,8 +16,8 @@
         "picture": "",
         "x_title": "Hey, I'm",
         "job": "Founder | JD/MBA Candidate",
-        "description": "I’m Zachary Brenner (or Zack), an AI-native JD/MBA student, LegalQuant, and founder. I build and write at the intersection of AI, blockchain, privacy, compliance, and digital markets, focusing on how legal and regulatory systems must evolve to meet emerging technologies.",
-        "summary": "AI-native JD/MBA building at the intersection of law, blockchain, and emerging technology",
+        "description": "Zachary Brenner is a JD/MBA candidate and co-founder of Sonomos, writing and building at the intersection of law, AI, privacy, and emerging technology.",
+        "summary": "JD/MBA candidate and co-founder of Sonomos, working at the intersection of law and emerging technology",
         "keywords": "Zachary Brenner, Zack Brenner, LegalQuant, AI law, blockchain law, privacy, compliance, crypto regulation",
         "url": "https://zackbrenner.com",
         "location": {
@@ -262,46 +262,39 @@
     ],
     "publications": [
         {
-            "name": "JD Supra Author Page",
+            "name": "AI Interaction Metadata and the Coming Era of Behavioral Discovery",
             "publisher": "JD Supra",
-            "releaseDate": "2024",
-            "website": "https://www.jdsupra.com/authors/zachary-brenner/artificial-intelligence/",
-            "summary": "Collection of articles on artificial intelligence law and regulation."
+            "releaseDate": "2026",
+            "website": "https://www.jdsupra.com/legalnews/ai-interaction-metadata-and-the-coming-7632321/",
+            "summary": "Article on AI interaction metadata and discovery."
         },
         {
-            "name": "Article in Journal of Regulatory Compliance",
-            "publisher": "Journal of Regulatory Compliance",
-            "releaseDate": "2024",
-            "website": "https://www.compliancelawjournal.com/compliancelawjournal/issue_xiv/MobilePagedArticle.action?articleId=2083060",
-            "summary": "Scholarly article on regulatory compliance."
-        },
-        {
-            "name": "Market Dreams, Machines, Anti-Manipulation Regulation, Autonomous Tactics and Age AI",
+            "name": "The Market Dreams of Machines: Anti-Manipulation Regulation, Autonomous Tactics, and the Age of AI Agentics",
             "publisher": "UC Davis Business Law Journal",
-            "releaseDate": "2024",
+            "releaseDate": "2026",
             "website": "https://blj.ucdavis.edu/archives/26/1/market-dreams-machines-anti-manipulation-regulation-autonomous-tactics-and-age-ai",
             "summary": "Scholarly article on AI and market regulation."
         },
         {
-            "name": "Article in Westlaw Today",
-            "publisher": "Westlaw Today",
-            "releaseDate": "2024",
-            "website": "https://today.westlaw.com/Document/Ic5ffd91b13e611f09f8daaabbaf86ccc/View/FullText.html?transitionType=CategoryPageItem&contextData=(sc.Default)&firstPage=true",
-            "summary": "Article on legal technology and AI."
-        },
-        {
             "name": "Why It's Time to Retire the Efficient Market Hypothesis",
             "publisher": "Law360",
-            "releaseDate": "2024",
+            "releaseDate": "2025",
             "website": "https://www.law360.com/articles/2340297/why-it-s-time-to-retire-the-efficient-market-hypothesis",
             "summary": "Analysis of market regulation and AI implications."
         },
         {
-            "name": "AI Interaction Metadata and the Coming Age of AI",
-            "publisher": "JD Supra",
-            "releaseDate": "2024",
-            "website": "https://www.jdsupra.com/legalnews/ai-interaction-metadata-and-the-coming-7632321/",
-            "summary": "Article on AI metadata and regulatory frameworks."
+            "name": "Blockchain's Achilles' Heel: How Interoperability Gaps Threaten Decentralization and Invite Regulatory Scrutiny",
+            "publisher": "Journal of Regulatory Compliance",
+            "releaseDate": "2025",
+            "website": "https://www.compliancelawjournal.com/compliancelawjournal/issue_xiv/MobilePagedArticle.action?articleId=2083060",
+            "summary": "Scholarly article on blockchain interoperability and regulation."
+        },
+        {
+            "name": "Bybit's Billion-Dollar Blunder",
+            "publisher": "Westlaw Today",
+            "releaseDate": "2025",
+            "website": "https://today.westlaw.com/Document/Ic5ffd91b13e611f09f8daaabbaf86ccc/View/FullText.html",
+            "summary": "Article on the Bybit exchange hack and its regulatory implications."
         }
     ],
     "skills": [

@@ -1,6 +1,6 @@
 {
-    "name": "Zachary Brenner | Founder, Technologist, Human | Exploring the intersection of AI, regulation, and emerging systems",
-    "short_name": "zackbrenner.com",
+    "name": "Zachary Brenner",
+    "short_name": "zackbrenner",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -15,6 +15,6 @@
     ],
     "start_url": ".",
     "display": "standalone",
-    "theme_color": "#00bfbf",
-    "background_color": "#171c28"
+    "theme_color": "#131110",
+    "background_color": "#131110"
 }
