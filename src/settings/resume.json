@@ -1,7 +1,7 @@
 {
     "about": {
         "image": "",
-        "description": "I am a joint J.D./M.B.A. student and founder of Sonomos. My work sits at the intersection of law, artificial intelligence, blockchain, and regulatory systems. I approach legal problems by focusing on how emerging technologies fundamentally challenge existing frameworks and workflows. Further, my research covers areas such as agentic AI, market manipulation, crypto regulation, blockchain interoperability, privacy, and compliance. At Sonomos, we are building local-first, privacy infrastructure designed to protect sensitive information from AI systems across all surfaces. I am also a member of LegalQuants, an exclusive, international community of legal professionals focused on building towards the quantitative and technological transformation, and subsequent implementation, of the modern legal practice. Before graduate school, I worked in government and policy, including roles with U.S. Senator Alex Padilla and Congressman Scott Peters. My experience spans legal research, regulatory analysis, business strategy, and emerging technology. More broadly, I focus on translating complex technical and legal challenges into clear analysis, persuasive writing, and practical systems.",
+        "description": "I'm a JD/MBA student and co-founder of Sonomos, where we build local privacy software that keeps sensitive information out of outside AI systems. I write on agentic AI, market manipulation, crypto regulation, and privacy, and I'm a member of LegalQuants, an international community of legal professionals. Before graduate school I worked in government and policy, including roles with U.S. Senator Alex Padilla and Congressman Scott Peters.",
         "yearsExperience": "04+",
         "completedProjects": "5+",
         "customStat": "∞",
@@ -16,8 +16,8 @@
         "picture": "",
         "x_title": "Hey, I'm",
         "job": "Founder | JD/MBA Candidate",
-        "description": "Zachary Brenner is a JD/MBA candidate and co-founder of Sonomos, writing and building at the intersection of law, AI, privacy, and emerging technology.",
-        "summary": "JD/MBA candidate and co-founder of Sonomos, working at the intersection of law and emerging technology",
+        "description": "Zachary Brenner is a JD/MBA candidate and co-founder of Sonomos. He writes on AI, markets, and the law, and builds privacy software.",
+        "summary": "JD/MBA candidate, co-founder of Sonomos, writer on AI and the law",
         "keywords": "Zachary Brenner, Zack Brenner, LegalQuant, AI law, blockchain law, privacy, compliance, crypto regulation",
         "url": "https://zackbrenner.com",
         "location": {
@@ -227,7 +227,9 @@
             "startDate": "2013-01-01",
             "endDate": "2014-01-01",
             "summary": "Description...",
-            "highlights": ["Started the company"]
+            "highlights": [
+                "Started the company"
+            ]
         }
     ],
     "volunteer": [
@@ -238,12 +240,14 @@
             "startDate": "2012-01-01",
             "endDate": "2013-01-01",
             "summary": "Description...",
-            "highlights": ["Awarded 'Volunteer of the Month'"]
+            "highlights": [
+                "Awarded 'Volunteer of the Month'"
+            ]
         }
     ],
     "education": [
         {
-            "institution": "University of San Diego",
+            "institution": "",
             "area": "Juris Doctor / Master of Business Administration",
             "studyType": "Graduate",
             "startDate": "2024",
@@ -301,25 +305,52 @@
         {
             "name": "Legal Skills",
             "skills": [
-                { "name": "Legal Research", "level": 95 },
-                { "name": "Legal Writing", "level": 95 },
-                { "name": "Regulatory Strategy", "level": 90 },
-                { "name": "Policy Analysis", "level": 90 }
+                {
+                    "name": "Legal Research",
+                    "level": 95
+                },
+                {
+                    "name": "Legal Writing",
+                    "level": 95
+                },
+                {
+                    "name": "Regulatory Strategy",
+                    "level": 90
+                },
+                {
+                    "name": "Policy Analysis",
+                    "level": 90
+                }
             ]
         },
         {
             "name": "Technical Skills",
             "skills": [
-                { "name": "AI Governance", "level": 90 },
-                { "name": "Blockchain / Crypto Regulation", "level": 90 },
-                { "name": "Privacy & Compliance", "level": 90 },
-                { "name": "Emerging Technology Analysis", "level": 85 }
+                {
+                    "name": "AI Governance",
+                    "level": 90
+                },
+                {
+                    "name": "Blockchain / Crypto Regulation",
+                    "level": 90
+                },
+                {
+                    "name": "Privacy & Compliance",
+                    "level": 90
+                },
+                {
+                    "name": "Emerging Technology Analysis",
+                    "level": 85
+                }
             ]
         },
         {
             "name": "Business Skills",
             "skills": [
-                { "name": "Business Strategy", "level": 85 }
+                {
+                    "name": "Business Strategy",
+                    "level": 85
+                }
             ]
         }
     ]
