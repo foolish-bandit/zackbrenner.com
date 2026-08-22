@@ -11,7 +11,7 @@
 
 ---
 
-JD/MBA candidate and CEO of [Sonomos](https://sonomos.ai), building local-first privacy infrastructure for AI. I write and build at the intersection of artificial intelligence, regulatory systems, and emerging technology.
+JD/MBA candidate and CEO of [Sonomos](https://sonomos.ai). I write on AI, markets, and the law, and build privacy software that keeps sensitive information out of outside AI tools.
 
 ## What I'm Building
 
@@ -36,7 +36,7 @@ Published in **Compliance Law Journal**, **UC Davis Business Law Journal**, **We
 
 ## This Repo
 
-Source code for [zackbrenner.com](https://zackbrenner.com). React + Tailwind CSS + Cloudflare Pages.
+Source code for [zackbrenner.com](https://zackbrenner.com). React + GitHub Pages.
 
 ```bash
 npm install

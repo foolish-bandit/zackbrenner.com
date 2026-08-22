@@ -1,7 +1,7 @@
 {
     "about": {
         "image": "",
-        "description": "I am a joint J.D./M.B.A. student and founder of Sonomos. My work sits at the intersection of law, artificial intelligence, blockchain, and regulatory systems. I approach legal problems by focusing on how emerging technologies fundamentally challenge existing frameworks and workflows. Further, my research covers areas such as agentic AI, market manipulation, crypto regulation, blockchain interoperability, privacy, and compliance. At Sonomos, we are building local-first, privacy infrastructure designed to protect sensitive information from AI systems across all surfaces. I am also a member of LegalQuants, an exclusive, international community of legal professionals focused on building towards the quantitative and technological transformation, and subsequent implementation, of the modern legal practice. Before graduate school, I worked in government and policy, including roles with U.S. Senator Alex Padilla and Congressman Scott Peters. My experience spans legal research, regulatory analysis, business strategy, and emerging technology. More broadly, I focus on translating complex technical and legal challenges into clear analysis, persuasive writing, and practical systems.",
+        "description": "I'm a JD/MBA student and co-founder of Sonomos, where we build local privacy software that keeps sensitive information out of outside AI systems. I write on agentic AI, market manipulation, crypto regulation, and privacy, and I'm a member of LegalQuants, an international community of legal professionals. Before graduate school I worked in government and policy, including roles with U.S. Senator Alex Padilla and Congressman Scott Peters.",
         "yearsExperience": "04+",
         "completedProjects": "5+",
         "customStat": "∞",
@@ -16,8 +16,8 @@
         "picture": "",
         "x_title": "Hey, I'm",
         "job": "Founder | JD/MBA Candidate",
-        "description": "I’m Zachary Brenner (or Zack), an AI-native JD/MBA student, LegalQuant, and founder. I build and write at the intersection of AI, blockchain, privacy, compliance, and digital markets, focusing on how legal and regulatory systems must evolve to meet emerging technologies.",
-        "summary": "AI-native JD/MBA building at the intersection of law, blockchain, and emerging technology",
+        "description": "Zachary Brenner is a JD/MBA candidate and co-founder of Sonomos. He writes on AI, markets, and the law, and builds privacy software.",
+        "summary": "JD/MBA candidate, co-founder of Sonomos, writer on AI and the law",
         "keywords": "Zachary Brenner, Zack Brenner, LegalQuant, AI law, blockchain law, privacy, compliance, crypto regulation",
         "url": "https://zackbrenner.com",
         "location": {
@@ -227,7 +227,9 @@
             "startDate": "2013-01-01",
             "endDate": "2014-01-01",
             "summary": "Description...",
-            "highlights": ["Started the company"]
+            "highlights": [
+                "Started the company"
+            ]
         }
     ],
     "volunteer": [
@@ -238,12 +240,14 @@
             "startDate": "2012-01-01",
             "endDate": "2013-01-01",
             "summary": "Description...",
-            "highlights": ["Awarded 'Volunteer of the Month'"]
+            "highlights": [
+                "Awarded 'Volunteer of the Month'"
+            ]
         }
     ],
     "education": [
         {
-            "institution": "University of San Diego",
+            "institution": "",
             "area": "Juris Doctor / Master of Business Administration",
             "studyType": "Graduate",
             "startDate": "2024",
@@ -262,71 +266,91 @@
     ],
     "publications": [
         {
-            "name": "JD Supra Author Page",
+            "name": "AI Interaction Metadata and the Coming Era of Behavioral Discovery",
             "publisher": "JD Supra",
-            "releaseDate": "2024",
-            "website": "https://www.jdsupra.com/authors/zachary-brenner/artificial-intelligence/",
-            "summary": "Collection of articles on artificial intelligence law and regulation."
+            "releaseDate": "2026",
+            "website": "https://www.jdsupra.com/legalnews/ai-interaction-metadata-and-the-coming-7632321/",
+            "summary": "Article on AI interaction metadata and discovery."
         },
         {
-            "name": "Article in Journal of Regulatory Compliance",
-            "publisher": "Journal of Regulatory Compliance",
-            "releaseDate": "2024",
-            "website": "https://www.compliancelawjournal.com/compliancelawjournal/issue_xiv/MobilePagedArticle.action?articleId=2083060",
-            "summary": "Scholarly article on regulatory compliance."
-        },
-        {
-            "name": "Market Dreams, Machines, Anti-Manipulation Regulation, Autonomous Tactics and Age AI",
+            "name": "The Market Dreams of Machines: Anti-Manipulation Regulation, Autonomous Tactics, and the Age of AI Agentics",
             "publisher": "UC Davis Business Law Journal",
-            "releaseDate": "2024",
+            "releaseDate": "2026",
             "website": "https://blj.ucdavis.edu/archives/26/1/market-dreams-machines-anti-manipulation-regulation-autonomous-tactics-and-age-ai",
             "summary": "Scholarly article on AI and market regulation."
         },
         {
-            "name": "Article in Westlaw Today",
-            "publisher": "Westlaw Today",
-            "releaseDate": "2024",
-            "website": "https://today.westlaw.com/Document/Ic5ffd91b13e611f09f8daaabbaf86ccc/View/FullText.html?transitionType=CategoryPageItem&contextData=(sc.Default)&firstPage=true",
-            "summary": "Article on legal technology and AI."
-        },
-        {
             "name": "Why It's Time to Retire the Efficient Market Hypothesis",
             "publisher": "Law360",
-            "releaseDate": "2024",
+            "releaseDate": "2025",
             "website": "https://www.law360.com/articles/2340297/why-it-s-time-to-retire-the-efficient-market-hypothesis",
             "summary": "Analysis of market regulation and AI implications."
         },
         {
-            "name": "AI Interaction Metadata and the Coming Age of AI",
-            "publisher": "JD Supra",
-            "releaseDate": "2024",
-            "website": "https://www.jdsupra.com/legalnews/ai-interaction-metadata-and-the-coming-7632321/",
-            "summary": "Article on AI metadata and regulatory frameworks."
+            "name": "Blockchain's Achilles' Heel: How Interoperability Gaps Threaten Decentralization and Invite Regulatory Scrutiny",
+            "publisher": "Journal of Regulatory Compliance",
+            "releaseDate": "2025",
+            "website": "https://www.compliancelawjournal.com/compliancelawjournal/issue_xiv/MobilePagedArticle.action?articleId=2083060",
+            "summary": "Scholarly article on blockchain interoperability and regulation."
+        },
+        {
+            "name": "Bybit's Billion-Dollar Blunder",
+            "publisher": "Westlaw Today",
+            "releaseDate": "2025",
+            "website": "https://today.westlaw.com/Document/Ic5ffd91b13e611f09f8daaabbaf86ccc/View/FullText.html",
+            "summary": "Article on the Bybit exchange hack and its regulatory implications."
         }
     ],
     "skills": [
         {
             "name": "Legal Skills",
             "skills": [
-                { "name": "Legal Research", "level": 95 },
-                { "name": "Legal Writing", "level": 95 },
-                { "name": "Regulatory Strategy", "level": 90 },
-                { "name": "Policy Analysis", "level": 90 }
+                {
+                    "name": "Legal Research",
+                    "level": 95
+                },
+                {
+                    "name": "Legal Writing",
+                    "level": 95
+                },
+                {
+                    "name": "Regulatory Strategy",
+                    "level": 90
+                },
+                {
+                    "name": "Policy Analysis",
+                    "level": 90
+                }
             ]
         },
         {
             "name": "Technical Skills",
             "skills": [
-                { "name": "AI Governance", "level": 90 },
-                { "name": "Blockchain / Crypto Regulation", "level": 90 },
-                { "name": "Privacy & Compliance", "level": 90 },
-                { "name": "Emerging Technology Analysis", "level": 85 }
+                {
+                    "name": "AI Governance",
+                    "level": 90
+                },
+                {
+                    "name": "Blockchain / Crypto Regulation",
+                    "level": 90
+                },
+                {
+                    "name": "Privacy & Compliance",
+                    "level": 90
+                },
+                {
+                    "name": "Emerging Technology Analysis",
+                    "level": 85
+                }
             ]
         },
         {
             "name": "Business Skills",
             "skills": [
-                { "name": "Business Strategy", "level": 85 }
+                {
+                    "name": "Business Strategy",
+                    "level": 85
+                }
             ]
         }
     ]
